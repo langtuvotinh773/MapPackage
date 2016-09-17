@@ -1,0 +1,5 @@
+F:\Github\MapPackage\MapPackage\Modules.Systems\bin\Debug\Modules.Systems.dll
+F:\Github\MapPackage\MapPackage\Modules.Systems\bin\Debug\Modules.Systems.pdb
+F:\Github\MapPackage\MapPackage\Modules.Systems\obj\Debug\Modules.Systems.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\Modules.Systems\obj\Debug\Modules.Systems.dll
+F:\Github\MapPackage\MapPackage\Modules.Systems\obj\Debug\Modules.Systems.pdb

@@ -1,0 +1,5 @@
+F:\Github\MapPackage\MapPackage\Modules.Masters\bin\Debug\Modules.Masters.dll
+F:\Github\MapPackage\MapPackage\Modules.Masters\bin\Debug\Modules.Masters.pdb
+F:\Github\MapPackage\MapPackage\Modules.Masters\obj\Debug\Modules.Masters.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\Modules.Masters\obj\Debug\Modules.Masters.dll
+F:\Github\MapPackage\MapPackage\Modules.Masters\obj\Debug\Modules.Masters.pdb

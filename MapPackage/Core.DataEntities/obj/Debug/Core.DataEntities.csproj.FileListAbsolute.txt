@@ -1,0 +1,8 @@
+F:\Github\MapPackage\MapPackage\MapPackage\Core.DataEntities\bin\Debug\Core.DataEntities.dll
+F:\Github\MapPackage\MapPackage\MapPackage\Core.DataEntities\bin\Debug\Core.DataEntities.pdb
+F:\Github\MapPackage\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.dll
+F:\Github\MapPackage\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.pdb
+F:\Github\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.dll
+F:\Github\MapPackage\MapPackage\Core.DataEntities\obj\Debug\Core.DataEntities.pdb

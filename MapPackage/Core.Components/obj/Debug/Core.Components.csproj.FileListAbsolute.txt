@@ -1,0 +1,8 @@
+F:\Github\MapPackage\MapPackage\MapPackage\Core.Components\bin\Debug\Core.Components.dll
+F:\Github\MapPackage\MapPackage\MapPackage\Core.Components\bin\Debug\Core.Components.pdb
+F:\Github\MapPackage\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.dll
+F:\Github\MapPackage\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.pdb
+F:\Github\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.csprojResolveAssemblyReference.cache
+F:\Github\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.dll
+F:\Github\MapPackage\MapPackage\Core.Components\obj\Debug\Core.Components.pdb
